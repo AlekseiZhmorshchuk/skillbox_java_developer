@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Module5.1CollectionsArray/ArrayX/ArrayX.iml" filepath="$PROJECT_DIR$/Module5.1CollectionsArray/ArrayX/ArrayX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module5.1CollectionsArray/Hospital/Hospital.iml" filepath="$PROJECT_DIR$/Module5.1CollectionsArray/Hospital/Hospital.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module5.1CollectionsArray/Module5.1CollectionsArray.iml" filepath="$PROJECT_DIR$/Module5.1CollectionsArray/Module5.1CollectionsArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module5.1CollectionsArray/ReverseArray/ReverseArray.iml" filepath="$PROJECT_DIR$/Module5.1CollectionsArray/ReverseArray/ReverseArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/skillbox_java_developer.iml" filepath="$PROJECT_DIR$/.idea/skillbox_java_developer.iml" />
     </modules>
   </component>
